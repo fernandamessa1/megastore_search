@@ -1,0 +1,1 @@
+C:\Users\Fernanda\Downloads\megastore_search\cod\target\debug\megastore_search.exe: C:\Users\Fernanda\Downloads\megastore_search\cod\src\lib.rs C:\Users\Fernanda\Downloads\megastore_search\cod\src\main.rs C:\Users\Fernanda\Downloads\megastore_search\cod\src\product.rs C:\Users\Fernanda\Downloads\megastore_search\cod\src\search.rs
